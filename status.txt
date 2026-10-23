@@ -1,1 +1,2 @@
+status=team-ready
 status=local-ready
